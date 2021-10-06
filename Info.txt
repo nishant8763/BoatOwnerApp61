@@ -1,0 +1,81 @@
+OneDrive:-
+https://1drv.ms/u/s!Al4smiznLthAmgHGqpsJwE-Q17E2?e=AER5kE
+Marvel  Customer:-
+	https://marvelapp.com/prototype/13gf037e/screen/75938001
+Marvel  Owner  
+	https://marvelapp.com/prototype/27e8ihe6/screen/76017559
+
+
+
+==================client server
+hostinger.com
+myboat667@gmail.com
+Jum@0417
+
+Hotmail
+https://www.vectorstock.com/royalty-free-vector/yacht-boat-abstract-gold-logo-vector-28709539
+User: ikarosy@hotmail.com
+Pass: Jum@0417
+
+Gmail
+myboat667@gmail.com
+Jum@0417
+
+Firebase
+var firebaseConfig = {
+    apiKey: "AIzaSyBwum8vSJGI-HNtsPVSiK9THpmA2IbgDTg",
+    authDomain: "myboat-54b2a.firebaseapp.com",
+    projectId: "myboat-54b2a",
+    storageBucket: "myboat-54b2a.appspot.com",
+    messagingSenderId: "1076734868236",
+    appId: "1:1076734868236:web:6a7bfcac34d92c9c406729"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig)
+
+firebase server key = AAAA-rJmOww:APA91bFnlWKpWMFjjoDM4gTQz_bkofgwxKyhKEVTqg2X92LJ2zBo1eSIOL3UiI6exsUr8_G70j4krK0l-vMdBRucWjeRGSGWCGTRP1KOZqk-WbpHPfv14hqQYfBgpjVtdW_2ct90NHqC
+Sender key = 1076734868236
+
+Onsignal id = c4baf33f-e0bf-410c-8fd4-894b0ca2aa1a
+Rest key == YTE2MmViNTctMmRlMC00Mjk4LWJlMDktN2Q1MTUzZTU1M2Yx
+web client id
+1076734868236-uon9jm6dmf6l8ss6sbjhfjmakba027ao.apps.googleusercontent.com
+
+web client secret
+9gnT1oTCMFerwQZLmksleR6_
+
+Sha-1  = 5E:8F:16:06:2E:A3:CD:2C:4A:0D:54:78:76:BA:A6:F3:8C:AB:F6:25
+
+react-native bundle --dev false --platform android --entry-file index.js --bundle-output ./android/app/src/main/assets/index.android.bundle --assets-dest ./android/app/src/main/res
+
+gradlew assembleDebug
+
+
+========================================
+FTP Details:-
+FTP server : ftp://myboatonline.com 
+FTP Username : u699447254.myboat
+FTP & explicit FTPS port :  21 
+PASSWORD  : MyBoaT#123
+
+
+
+
+=====================================
+zoho== https://projects.zoho.in/portal/youngdecade#users/62703000000057035
+
+
+
+========================
+Mac for react native-near macmini
+Windows System Any desk : 808 013 152
+Mac for react native-near kuldeep
+Windows System Any desk : 128 458 219
+Mac mini
+System Any desk : 463 757 322
+Mac for phonegap
+Windows System Any desk : 128 458 219
+Any Desk Password : Youngdecade26
+
+
+new udid = 00008030-001A61092643802E
